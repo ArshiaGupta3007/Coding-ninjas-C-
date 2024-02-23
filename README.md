@@ -4,7 +4,7 @@ S.A.F.A.L isn't just a platform; it's a beacon of empowerment for unskilled labo
 
 ## What S.A.F.A.L Offers Unskilled Laborers:
 
-**Tailored Job Listings**: Explore a wide array of job listings tailored to your skills, interests, and location preferences, ensuring a perfect match for your abilities and aspirations.
+1) **Tailored Job Listings**: Explore a wide array of job listings tailored to your skills, interests, and location preferences, ensuring a perfect match for your abilities and aspirations.
 
 2) User-Friendly Interface: Navigate our intuitive web platform with ease, thanks to its responsive design that adapts seamlessly to any device, making job searching accessible and convenient.
 

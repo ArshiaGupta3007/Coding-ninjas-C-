@@ -1,6 +1,9 @@
 # Welcome to S.A.F.A.L: Skillful Amiable Focused Adaptable Labor force
 
-S.A.F.A.L isn't just a platform; it's a beacon of empowerment for unskilled laborers seeking meaningful employment opportunities. Our responsive web platform is dedicated to shattering barriers and providing access to a diverse array of job prospects, ensuring that every worker, the backbone of our society, has the chance to flourish in today's competitive job market.
+S.A.F.A.L isn't just a platform; it's a beacon of empowerment for unskilled laborers seeking meaningful employment opportunities.
+Our responsive web platform is dedicated to shattering barriers and providing access to a diverse array of job prospects, ensuring that every worker, the backbone of our society, has the chance to flourish in today's competitive job market.
+
+
 
 ## What S.A.F.A.L Offers Unskilled Laborers:
 
